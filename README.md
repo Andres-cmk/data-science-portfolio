@@ -31,19 +31,23 @@ Hi, I'm **Andrés Ramírez**, a Systems and Computer Engineering student at **Un
 ---
  
 ## 📁 Repository structure
- 
+
 ```
 data-science-portfolio/
 ├── README.md
-├── fraudDection/
+├── fraudDetection/
 │   ├── README.md
 │   ├── Fraud_Detection_System.ipynb
 │   └── requirements.txt
-├── CnnAudio/
+├── cnnAudio/
 │   ├── README.md
 │   ├── CNN_AUDIO.ipynb
 │   └── requirements.txt
-└── vehicle-collision-detection/
+├── IranianCompanyChurn/
+│   ├── README.md
+│   ├── Churn.ipynb
+│   └── requirements.txt
+└── vehicleCollisionDetection/ --> At other repo
     ├── README.md
     └── ...
 ```
