@@ -12,7 +12,7 @@ Hi, I'm **Andrés Ramírez**, a Systems and Computer Engineering student at **Un
 | [💳 Fraud Detection](./fraudDetection) | Detect fraudulent mobile money transactions (0.13% fraud rate) | scikit-learn pipelines, Logistic Regression, Random Forest, CRISP-DM | **F1 85.9%** (precision 95.7%, recall 77.9%) |
 | [🔊 Scream Detection with CNN](./cnnAudio) | Classify audio clips as scream or no scream | PyTorch, torchaudio, Mel spectrograms, CNN | **78% accuracy**, F1 0.73 on the scream class |
 | [🚗 Vehicle Collision Detection](https://github.com/Andres-cmk/Fraud-Detection-System) | Detect traffic accidents in images and video | YOLOv11, Roboflow, Python | Real-time inference on images and video |
-| [📉 Customer Churn Prediction](./IrinianCompanyChurn) | Predict which telecom customers are likely to leave | Decision Tree, Logistic Regression, MLP, leakage detection, CRISP-DM | **Decision Tree: recall 73.7%**, F1 0.61 |
+| [📉 Customer Churn Prediction](./IranianCompanyChurn) | Predict which telecom customers are likely to leave | Decision Tree, Logistic Regression, MLP, leakage detection, CRISP-DM | **Decision Tree: recall 73.7%**, F1 0.61 |
  
 ---
  
