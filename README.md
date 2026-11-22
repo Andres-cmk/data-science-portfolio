@@ -69,13 +69,6 @@ Datasets are not stored in this repository. Each project README links to its sou
  
 ---
  
-## 🧱 Other projects
- 
-Backend and AI systems work lives in separate repositories:
- 
-- [UNAL Academic Chatbot](#): a chatbot that routes requests across several AI providers and answers with RAG over an institutional knowledge base (FastAPI, Next.js, Docker).
----
- 
 ## 🌱 Currently learning
  
 Deeper deep learning (recurrent networks, multi-input and multi-output architectures), MLOps and technical English.
